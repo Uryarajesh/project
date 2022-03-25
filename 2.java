@@ -30,5 +30,5 @@ public class JavaScanner1 {
 		System.out.println("short");
 		Short sd = sc.nextShort();		
 	}
-
+}
 }
