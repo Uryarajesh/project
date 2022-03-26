@@ -32,7 +32,9 @@ public class Binary {
 			purse = purse/2;
 	}
 	System.out.println(binary);
-	}		
+	}
+}
+}
 }
 
 
