@@ -22,7 +22,7 @@ public void loopfordemo()
 	}
 	System.out.println( "count is"+count);
 	System.out.println("addition is "+addition);
-	
+	//add reverse number program
 	
 }
 }
